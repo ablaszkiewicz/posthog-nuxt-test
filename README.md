@@ -1,1 +1,0 @@
-# posthog-nuxt-test
